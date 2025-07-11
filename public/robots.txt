@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ranksup.vercel.app/sitemap.xml
